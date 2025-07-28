@@ -1,6 +1,4 @@
 Netflix Clone 🍿
-https://github.com/Prince-edu22/Netflix-Clone/blob/main/public/netflix-screenshot.png?raw=true
-
 A feature-rich Netflix clone built with React, Firebase, that replicates the core functionality of the popular streaming service.
 
 ✨Features
