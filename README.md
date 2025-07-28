@@ -6,14 +6,13 @@ A feature-rich Netflix clone built with React, Firebase, that replicates the cor
 🎥Movie Database: Browse thousands of movies with detailed information
 📱Responsive Design: Works on mobile, tablet, and desktop devices
 👥Profile Management: Create and manage multiple user profiles
-🔥Firebase Hosting: Deployed and served through Firebase
 
 🛠️Tech Stack
 Frontend-Backend-APIs & Services
 ⚛️ React 18	🔥 Firebase
 🎨 CSS Modules	📦 Firestore	🎬 TMDB API(use VPN)
 🔄 React Router	🔐 Auth	
-🧩 Context API	☁️ Hosting
+🧩 Context API	
 
 Clone the repository:
 git clone https://github.com/Prince-edu22/Netflix-Clone.git
