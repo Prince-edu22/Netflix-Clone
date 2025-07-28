@@ -9,7 +9,7 @@ A feature-rich Netflix clone built with React, Firebase, that replicates the cor
 🔥Firebase Hosting: Deployed and served through Firebase
 
 🛠️Tech Stack
-Frontend	Backend	APIs & Services
+Frontend-Backend-APIs & Services
 ⚛️ React 18	🔥 Firebase
 🎨 CSS Modules	📦 Firestore	🎬 TMDB API(use VPN)
 🔄 React Router	🔐 Auth	
