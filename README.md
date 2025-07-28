@@ -1,12 +1,43 @@
-# React + Vite
+Netflix Clone 🍿
+https://github.com/Prince-edu22/Netflix-Clone/blob/main/public/netflix-screenshot.png?raw=true
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich Netflix clone built with React, Firebase, that replicates the core functionality of the popular streaming service.
 
-Currently, two official plugins are available:
+✨Features
+🔐User Authentication: Sign up and login using Firebase Authentication
+🎥Movie Database: Browse thousands of movies with detailed information
+📱Responsive Design: Works on mobile, tablet, and desktop devices
+👥Profile Management: Create and manage multiple user profiles
+🔥Firebase Hosting: Deployed and served through Firebase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️Tech Stack
+Frontend	Backend	APIs & Services
+⚛️ React 18	🔥 Firebase
+🎨 CSS Modules	📦 Firestore	🎬 TMDB API(use VPN)
+🔄 React Router	🔐 Auth	
+🧩 Context API	☁️ Hosting
 
-## Expanding the ESLint configuration
+Clone the repository:
+git clone https://github.com/Prince-edu22/Netflix-Clone.git
+cd Netflix-Clone
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies:
+npm install
+
+🔧Set up Firebase configuration:
+npm install firebase react-firebase-hooks
+
+Start the development server:
+npm start
+
+🤝 Contributing
+🍴 Fork the repository
+
+🌿 Create your feature branch (git checkout -b feature/your-feature)
+
+💾 Commit your changes (git commit -m 'Add awesome feature ✨')
+
+📤 Push to the branch (git push origin feature/your-feature)
+
+🔔 Open a pull request
+
